@@ -1,0 +1,2 @@
+POTENCY = 179
+print(2**POTENCY)

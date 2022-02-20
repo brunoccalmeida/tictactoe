@@ -1,0 +1,19 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: downloading Python libraries.
+- text: 'replacing the modules you don''t need. '
+- text: structuring modules hierarchically.
+- text: importing modules and submodules.
+message_correct: Congratulations!
+message_incorrect: Incorrect solution
+files:
+- name: main.py
+  visible: true
+  text: |+
+    #  You can experiment here, it won’t be checked
+
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6386#comment
+status: Solved
+record: -1
